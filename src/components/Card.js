@@ -10,7 +10,7 @@ class Card extends React.Component{
                 </div>
                 <div>
                     <h1>Guia de tecnicas</h1>
-                    <p>Encuentra una seria de tecnias en esta guia</p>
+                    <p>Encuentra una seria de tecnias en esta guia aqui</p>
                 </div>
             </div>
         )
